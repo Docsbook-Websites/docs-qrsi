@@ -1,23 +1,35 @@
 ---
-title: "Getting started"
-description: "Carry a first-time reader of docs from nothing to one working result, with every step spelled out and no setup assumed."
+title: Начало работы
+description: Что известно о начале обмена денег во Вьетнаме и какие детали нужно уточнить.
 status: generated
-version: "0.1"
+version: "0.2"
 ---
 
-# Getting started
+Чтобы начать обмен, нужно связаться с сервисом и согласовать операцию. Способ связи, порядок заявки и необходимые данные пока не указаны в исходных материалах.
 
-This page has one job: take somebody from nothing to a first working result with docs. Write it as numbered steps, and make the last step produce something the reader can see.
+<!-- widget:callout type=warning -->
 
-Two rules keep it useful. Assume no prior setup — name the account, the install, the file. And stop at the first result; everything after that is a guide, not this page.
-
-Where a step needs a value only the reader has, say where they find it rather than guessing it for them.
-
-<!-- widget:cards plain cols=2 -->
-
-## Next steps
-
-- [Guides](guides/overview.md) — The jobs that come after the first result {compass}
-- [Reference](reference/overview.md) — Every option, once it starts to matter {braces}
+Не отправляйте криптовалюту до уточнения адреса кошелька, курса, суммы, подтверждения операции и способа получения наличных. Эти детали ещё не предоставлены.
 
 <!-- /widget -->
+
+## Подтверждённые возможности
+
+1. Сервис работает во Вьетнаме.
+2. Сервис принимает криптовалюту.
+3. Сервис привозит наличные.
+
+## Что нужно уточнить
+
+- Как связаться с сервисом и оформить заявку?
+- Какие криптовалюты и сети принимаются?
+- Как определяется курс обмена и есть ли минимальная сумма?
+- В каких городах и районах доступны наличные?
+- Сколько времени занимает доставка?
+- Какие документы или данные нужны для обмена?
+
+Пока эти сведения не подтверждены, документация не содержит инструкций, цен, сроков или обещаний результата.
+
+## Дальше
+
+Подробнее о двух названных возможностях: [приём криптовалюты](./crypto.md) и [доставка наличных](./cash-delivery.md).

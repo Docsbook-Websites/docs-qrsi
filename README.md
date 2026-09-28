@@ -1,38 +1,37 @@
 ---
-title: "docs documentation"
-description: "Route every reader of the docs docs in one pass — newcomers to getting started, everybody else to the guides, reference or concepts."
+title: Обмен денег во Вьетнаме
+description: Обмен денег во Вьетнаме: принимаем криптовалюту и привозим наличные.
 status: generated
-version: "0.1"
+version: "0.2"
 ---
 
 <!-- widget:hero -->
 
-**Documentation**
+**Обмен денег во Вьетнаме**
 
-# docs documentation
+# Криптовалюта — наличные во Вьетнаме
 
-The front door. Keep it short: a sentence on what docs is, a sentence on who it is for, then let the links do the routing.
+Сервис по обмену денег во Вьетнаме. Принимаем криптовалюту и привозим наличные.
 
-- [Getting started](getting-started.md) {rocket}
-- [Guides](guides/overview.md) {compass}
-- [Reference](reference/overview.md) {braces}
-- [Concepts](concepts/overview.md) {book-open}
-
-<!-- /widget -->
-
-<!-- widget:cards cols=2 -->
-
-- [Getting started](getting-started.md) — From nothing to one working result {rocket}
-- [Guides](guides/overview.md) — One page per job somebody came to do {compass}
-- [Reference](reference/overview.md) — Options, fields and values, built to be scanned {braces}
-- [Concepts](concepts/overview.md) — The ideas the rest of the site assumes {book-open}
-- [FAQ](faq.md) — The questions you answer by hand today {circle-help}
-- [Changelog](changelog.md) — What changed, newest first {history}
+- [Начать работу](./getting-started.md) {arrow-right}
+- [Приём криптовалюты](./crypto.md) {bitcoin}
+- [Доставка наличных](./cash-delivery.md) {banknote}
 
 <!-- /widget -->
 
-<!-- widget:callout type=tip -->
+## Возможности
 
-Whatever you would explain here at length belongs on the page it points at instead. A front door that answers questions stops being a door.
+<!-- widget:cards feature cols=2 -->
+
+- [Приём криптовалюты](./crypto.md) — Передайте криптовалюту для обмена. {color:#8b5cf6} {bitcoin}
+- [Доставка наличных](./cash-delivery.md) — Получите наличные во Вьетнаме. {color:#10b981} {banknote}
 
 <!-- /widget -->
+
+## Что известно сейчас
+
+На текущем этапе подтверждены только две возможности: сервис работает во Вьетнаме, принимает криптовалюту и привозит наличные. Условия обмена, порядок заявки и детали доставки ещё не описаны.
+
+## Следующий шаг
+
+Перейдите на страницу [начала работы](./getting-started.md), чтобы увидеть сведения, которые нужны для оформления процесса.
